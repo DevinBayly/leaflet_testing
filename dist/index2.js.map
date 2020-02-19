@@ -1,0 +1,1 @@
+{"version":3,"sources":["index2.js"],"names":["console","log"],"mappings":"AAAAA,OAAO,CAACC,GAAR,CAAY,UAAZ","file":"index2.js","sourceRoot":"..","sourcesContent":["console.log(\"working?\")"]}
